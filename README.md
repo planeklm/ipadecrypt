@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](#license)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/londek/ipadecrypt/pulls)
 
-<img width="80%" src="https://github.com/user-attachments/assets/d2f52a62-3f79-4caa-84ba-688741e0ca33" />
+<img width="80%" src="https://github.com/user-attachments/assets/ba8dbd32-a2fb-49cc-afee-3aa88050718e" />
 
 </div>
 

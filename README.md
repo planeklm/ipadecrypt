@@ -5,7 +5,7 @@
 **End-to-end FairPlay decrypter for App Store apps.**
 *Give it a bundle ID, get a decrypted `.ipa`. And yes - it happily decrypts iOS 26 apps.*
 
-[![Go Version](https://img.shields.io/badge/Go-1.24%2B-00ADD8?style=flat-square&logo=go)](https://golang.org/)
+[![Go Version](https://img.shields.io/badge/Go-1.25%2B-00ADD8?style=flat-square&logo=go)](https://golang.org/)
 [![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)](#install)
 [![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)](#install)
 [![Windows](https://img.shields.io/badge/Windows-000?style=flat-square&logo=windows&logoColor=white)](#install)

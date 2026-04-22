@@ -15,7 +15,7 @@ For regular development you only need the CLI; the prebuilt helper is committed 
 
 ### Helper
 
-The helper is built inside a prebuilt Docker image published at `ghcr.io/londek/ipadecrypt-toolchain:latest` (~750 MB). The image is defined by [`helper/Dockerfile`](helper/Dockerfile) and pushed by the `toolchain` job in [`.github/workflows/ci.yml`](.github/workflows/ci.yml) on every CI run — tagged by the Dockerfile's hash, plus `:latest` on `main`.
+The helper is built inside a prebuilt Docker image published at `ghcr.io/londek/ipadecrypt-toolchain:latest` (~750 MB). The image is defined by [`helper/Dockerfile`](helper/Dockerfile) and pushed by the `toolchain` job in [`.github/workflows/ci.yml`](.github/workflows/ci.yml) on every CI run - tagged by the Dockerfile's hash, plus `:latest` on `main`.
 
 What's inside:
 
